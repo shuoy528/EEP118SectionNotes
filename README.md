@@ -1,1 +1,1 @@
-# EEP118SectionNotes
+# EEP 118 Introductory Applied Econometrics Section Notes
